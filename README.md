@@ -6,6 +6,7 @@
 - [x] 用AJAX加载XML
 - [x] 用AJAX加载JSON
 - [x] 用AJAX模拟分页
+- [ ] 优化分页：在点击第三页的时候就禁用下一页按钮
 
 使用方法：
 1. 克隆到本地后使用以下命令开启服务（请自行安装[node-dev](https://github.com/fgnass/node-dev#readme)工具）
